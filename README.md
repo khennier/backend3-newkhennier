@@ -10,5 +10,5 @@ La documentación de la API está disponible en:
 
 1. Clona el repositorio:
    ```bash
-   git clone <link-del-repo>
+   git clone https://github.com/khennier/backend3-newkhennier
    cd adoption-khennierbackend3
